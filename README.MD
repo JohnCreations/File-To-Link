@@ -18,7 +18,7 @@
 ## About This Bot
 
 <p align="center">
-    <a href="https://github.com/Aadhi000/File-To-Link">
+    <a href="https://github.com/JohnCreations/File-To-Link">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
